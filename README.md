@@ -44,18 +44,18 @@ Languages.(C1/C2): English
 <br> 
 <div align="center">
     <a href="https://github.com/SuroTheFool" target="_blank">
-        <img src=icons8-github.svg alt=github style="margin-bottom: 5px;">
+        <img src=github.png alt=github style="margin-bottom: 5px;" width = "150">
     </a>
     <a href="https://discord.com/users/269914153425043457" target="_blank">
-        <img src=icons8-discord.svg alt=discord style="margin-bottom: 5px;" width = "150">
+        <img src=discord.png alt=discord style="margin-bottom: 5px;" width = "150">
     </a>
     <br>
-    <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "150">
 </div>  
 <br>
 <div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
+        <br>
         <img src="https://media.tenor.com/Kc2GInetbCgAAAAC/wakfu-nox.gif" width="500"/>
     </div>
 </div>
