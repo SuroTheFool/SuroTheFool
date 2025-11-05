@@ -47,10 +47,10 @@ Languages.(C1/C2): English
         <img src=icons8-github.svg alt=github style="margin-bottom: 5px;">
     </a>
     <a href="https://discord.com/users/269914153425043457" target="_blank">
-        <img src=icons8-discord.svg alt=discord style="margin-bottom: 5px;" width = "300">
+        <img src=icons8-discord.svg alt=discord style="margin-bottom: 5px;" width = "150">
     </a>
     <br>
-    <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "500">
+    <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "150">
 </div>  
 <br>
 <div>
