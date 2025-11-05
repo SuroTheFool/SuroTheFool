@@ -44,10 +44,10 @@ Languages.(C1/C2): English
 <br> 
 <div align="center">
     <a href="https://github.com/SuroTheFool" target="_blank">
-        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/256px-Github-desktop-logo-symbol.svg.png?20200316183539 alt=github style="margin-bottom: 5px;">
+        <img src=icons8-github.svg alt=github style="margin-bottom: 5px;">
     </a>
     <a href="https://discord.com/users/269914153425043457" target="_blank">
-        <img src=https://www.streamlinehq.com/icons/download/discord--8238 alt=discord style="margin-bottom: 5px;">
+        <img src=icons8-discord.svg alt=discord style="margin-bottom: 5px;">
     </a>
     <br>
     <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "500">
