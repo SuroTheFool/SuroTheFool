@@ -44,10 +44,10 @@ Languages.(C1/C2): English
 <br> 
 <div align="center">
     <a href="https://github.com/SuroTheFool" target="_blank">
-        <img src=github.png alt=github style="margin-bottom: 5px;" width = "150">
+        <img src=github.svg alt=github style="margin-bottom: 5px;" width = "100">
     </a>
     <a href="https://discord.com/users/269914153425043457" target="_blank">
-        <img src=discord.png alt=discord style="margin-bottom: 5px;" width = "150">
+        <img src=discord.png alt=discord style="margin-bottom: 5px;" width = "100">
     </a>
     <br>
 </div>  
@@ -56,7 +56,7 @@ Languages.(C1/C2): English
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
         <br>
-        <img src="https://media.tenor.com/Kc2GInetbCgAAAAC/wakfu-nox.gif" width="500"/>
+        <img src="https://media.tenor.com/Kc2GInetbCgAAAAC/wakfu-nox.gif" width="400"/>
     </div>
 </div>
 <br> 
