@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/g7gjdXHvZ5UAAAAd/wakfu-nox.gif" width="600px">
+    <img src="https://media.tenor.com/g7gjdXHvZ5UAAAAd/wakfu-nox.gif" width="500px">
 </div>
 
 <br>
